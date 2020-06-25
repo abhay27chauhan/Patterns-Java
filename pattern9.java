@@ -27,10 +27,6 @@ public class pattern9 {
                 c--;
             }
             
-            for(int csp=1; csp<=sp; csp++){
-                System.out.print("  ");
-            }
-            
             sp--;
             val = val+1;
             System.out.println();
